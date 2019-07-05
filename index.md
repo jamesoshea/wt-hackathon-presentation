@@ -1,6 +1,3 @@
-![alt text](https://i.pinimg.com/originals/37/f8/ed/37f8ed7686f5342ed76ef3df09e602d9.png "Logo Title Text 1")
-
-
 ### What we wanted to do:
 
 - Make a booking (we ended up picking hotels as there was inventory ready to go)
